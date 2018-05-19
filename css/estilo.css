@@ -1,0 +1,44 @@
+body{
+	background: url(../img/pubg.jpg);
+	background-size: cover;
+	margin-top: 3%;
+}
+
+h1{
+	font-family: 'The New Roman';
+}
+
+h2{
+	font-family: 'Arial Black';
+	text-align: center;
+	font-size: 2.0em;
+	font-family: 'Monoton';
+	color: white;
+	text-shadow: 3px 3px 3px white;
+}
+
+#seguir{
+	text-align: center;
+	font-size: 1.2em;
+	font-family: 'Audiowide', cursive;
+	color: white;
+}
+
+#perfil{
+	background: url(../img/fondo1.jpg);
+}
+
+#redes{
+	font-family: 'Bangers', cursive;
+}
+
+#info{
+	font-family: 'VT323', monospace;
+	font-size: 1.5em;
+	color: white;
+	text-shadow: 4px 4px 4px black;
+}
+
+#well{
+	background: url(../img/fondo.png);
+}
